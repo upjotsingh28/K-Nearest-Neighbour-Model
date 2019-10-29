@@ -26,9 +26,8 @@ We Have Confusion Matrix as :
 And Classification report as :<br>
 <img src="https://user-images.githubusercontent.com/46626425/67759311-3cc9a680-fa65-11e9-959f-16e6ff395823.png"/>
 <br>
-<br>
 Let's plot the Elbow Method graph for finding the correct value of K.<br>
-Plotting...<br>
+Plotting...
 <img src="https://user-images.githubusercontent.com/46626425/67758313-77324400-fa63-11e9-8a2f-f0d8dbc95305.png"/>
 
 Saved Elbow Method Graph.<br>
@@ -42,6 +41,7 @@ Now We Have Confusion Matrix as :<br>
  [ [ 52   7]<br>
  [  5 107] ]<br>
 <br> 
-Classification Report as :
+Classification Report as :<br>
+<br>
 <img src="https://user-images.githubusercontent.com/46626425/67758408-a21c9800-fa63-11e9-91df-180e3f4ca3d9.png"/>
 
