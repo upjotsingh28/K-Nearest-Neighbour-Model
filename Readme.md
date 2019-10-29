@@ -24,8 +24,9 @@ We Have Confusion Matrix as :
  [ 11 101] ]<br>
 <br> 
 And Classification report as :<br>
-<img src="Calss 1"/>
-
+<img src="https://user-images.githubusercontent.com/46626425/67759311-3cc9a680-fa65-11e9-959f-16e6ff395823.png"/>
+<br>
+<br>
 Let's plot the Elbow Method graph for finding the correct value of K.<br>
 Plotting...<br>
 <img src="https://user-images.githubusercontent.com/46626425/67758313-77324400-fa63-11e9-8a2f-f0d8dbc95305.png"/>
